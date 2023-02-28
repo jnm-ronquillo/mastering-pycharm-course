@@ -12,7 +12,7 @@ def main():
 
 def print_header():
     print("------------------------------------------")
-    print(f"  TALK PYTHON PODCAST DOWNLOADER v{__VERSION__}")
+    print(f"  TALKING PYTHON PODCAST DOWNLOADER v{__VERSION__}")
     print("------------------------------------------")
 
 
